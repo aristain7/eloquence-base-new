@@ -6,12 +6,8 @@ Easy and flexible extensions for the [Eloquent ORM](https://laravel.com/docs/elo
 
 Currently available extensions:
 
-1. [Base - Searchable](https://github.com/jarektkaczyk/eloquence-base) query - crazy-simple fulltext search through any related model 
-1. [Validable](https://github.com/jarektkaczyk/eloquence-validable) - self-validating models
-2. [Mappable](https://github.com/jarektkaczyk/eloquence-mappable) -map attributes to table fields and/or related models
-3. [Metable](https://github.com/jarektkaczyk/eloquence-metable) - meta attributes made easy
-4. [Mutable](https://github.com/jarektkaczyk/eloquence-mutable) - flexible attribute get/set mutators with quick setup 
-5. [Mutator](https://github.com/jarektkaczyk/eloquence-mutable) - pipe-based mutating
+1. [Base - Searchable](https://github.com/jarektkaczyk/eloquence-base-new) query - crazy-simple fulltext search through any related model 
+2. [Mappable](https://github.com/jarektkaczyk/eloquence-mappable-new) -map attributes to table fields and/or related models
 
 ## Installation
 
